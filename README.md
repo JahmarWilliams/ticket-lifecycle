@@ -29,15 +29,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-The intake step of the ticket lifestyle is the process of actually recieving the issues from the end-user. This could be via phone, chat, email, web form submission, or someone bringing an issue to you in person. All of these (including the in-person scenarios) need to be documented for accountability and metric purposes. Whether an end-user is creating the ticket or you are making one for someone else, you will typically be required to enter certain details such as the email address, full name, phone number, the help topic, and a general summary of what the actual issue is that the user is experiencing. These result in the tickets you see when logged into osTicket. 
+The intake stage of the ticket lifecycle is the process of actually recieving the issues from the end-user. This could be via phone, chat, email, web form submission, or someone bringing an issue to you in person. All of these (including the in-person scenarios) need to be documented for accountability and metric purposes. Whether an end-user is creating the ticket or you are making one for someone else, you will typically be required to enter certain details such as the email address, full name, phone number, the help topic, and a general summary of what the actual issue is that the user is experiencing. These result in the tickets you see when logged into osTicket. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="874" height="705" alt="image" src="https://github.com/user-attachments/assets/6db42017-14a4-4f1a-9268-fc3f6f44debd" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Assignment and Communication stage of the ticket lifecycle involves ensuring the ticket is assigned to the proper team or group. Observe the details of the ticket such as the Issue Summary, Priority, Department, SLA, and Assigned To sections. These will help you to determine if the ticket has been assigned to the right department and help desk user. If the issue is something critical that cannot be solved by your department or requires permissions and access you do not possess, be sure to reassign it to the correct department and make the proper notations with any changes you make. This includes changes to the department, severity level, and priority. 
 </p>
 <br />
 
