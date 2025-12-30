@@ -25,8 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src=<img width="767" height="749" alt="image" src="https://github.com/user-attachments/assets/9d4bcf7e-2293-42fa-afbb-6dd88dbc2ded" />
-/>
+<img width="767" height="749" alt="image" src="https://github.com/user-attachments/assets/82464427-d0a2-4332-b80d-54b54ebe62c4" />
+
 </p>
 <p>
 The intake step of the ticket lifestyle is the process of actually recieving the issues from the end-user. This could be via phone, chat, email, web form submission, or someone bringing an issue to you in person. All of these (including the in-person scenarios) need to be documented for accountability and metric purposes. Whether an end-user is creating the ticket or you are making one for someone else, you will typically be required to enter certain details such as the email address, full name, phone number, the help topic, and a general summary of what the actual issue is that the user is experiencing. These result in the tickets you see when logged into osTicket. 
