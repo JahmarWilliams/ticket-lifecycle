@@ -47,6 +47,16 @@ The Assignment and Communication stage of the ticket lifecycle involves ensuring
 
 </p>
 <p>
-The next lifecycle stage is Working the Issue. This part of the process is actually analyzing the issue to figure out a possible solution in order to help the end user fix their problem(s). You can do this by troubleshooting common steps such as reboots, disabling and re-enabling, ensuring all connections are working, etc. There's a plethora of issues you might encounter while solving a ticket but there are many resources you can use such as supervisors, coworkers and even the web. While working their issue, be sure to keep them updated on the process by updating the ticket comment section or even sending an email just to reassure them that the issue is being worked on. 
+The next lifecycle stage is Working the Issue. This part of the process is actually analyzing the issue to figure out a possible solution in order to help the end user fix their problem(s). You can do this by using common troubleshooting steps such as reboots, disabling and re-enabling, ensuring all connections are working, etc. There's a plethora of issues you might encounter while solving a ticket but there are many resources you can use such as supervisors, coworkers and even the web. While working their issue, be sure to keep the end-user updated on the process by updating the ticket comment section or even sending an email just to reassure them that they haven't been forgotten and the issue is actively being worked on. 
+</p>
+<br />
+
+
+<p>
+<img width="894" height="605" alt="image" src="https://github.com/user-attachments/assets/9f41dabb-43ff-4808-9511-d7a1664cee38" />
+
+</p>
+<p>
+The final lifecycle stage is Resolution. You have reached this step once the issue has been properly resolved and the user is back up and running smoothly. Once it has been confirmed that everything is working as it should, make sure to write any final comments on how this resolution was achieved and then change the ticket status to resolved or closed to let osTicket know you are finished. 
 </p>
 <br />
