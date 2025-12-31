@@ -43,9 +43,10 @@ The Assignment and Communication stage of the ticket lifecycle involves ensuring
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="873" height="676" alt="image" src="https://github.com/user-attachments/assets/8ec953b5-4e53-4d9e-a532-4281ec1f950e" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next lifecycle stage is Working the Issue. This part of the process is actually analyzing the issue to figure out a possible solution in order to help the end user fix their problem(s). You can do this by troubleshooting common steps such as reboots, disabling and re-enabling, ensuring all connections are working, etc. There's a plethora of issues you might encounter while solving a ticket but there are many resources you can use such as supervisors, coworkers and even the web. While working their issue, be sure to keep them updated on the process by updating the ticket comment section or even sending an email just to reassure them that the issue is being worked on. 
 </p>
 <br />
